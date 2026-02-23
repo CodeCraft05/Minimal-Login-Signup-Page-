@@ -1,3 +1,3 @@
 Download the repository.
-Open the folder in you IDE.
+Open the folder in your IDE.
 Run and enjoy.
